@@ -1,0 +1,6 @@
+framework module Pods_GBZConfigKit_Example {
+  umbrella header "Pods-GBZConfigKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

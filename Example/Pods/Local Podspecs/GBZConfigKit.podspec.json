@@ -1,0 +1,22 @@
+{
+  "name": "GBZConfigKit",
+  "version": "1",
+  "summary": "A short description of GBZConfigKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MRGBB/GBZConfigKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MRGBB": "guobb@pifubao.com"
+  },
+  "source": {
+    "git": "https://github.com/MRGBB/GBZConfigKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GBZConfigKit/Classes/**/*"
+}
