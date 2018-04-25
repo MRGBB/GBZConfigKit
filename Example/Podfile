@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GBZConfigKit_Example' do
+  pod 'GBZConfigKit', :path => '../'
+
+  target 'GBZConfigKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
